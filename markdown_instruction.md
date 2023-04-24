@@ -14,3 +14,5 @@ And then type return.
 ## Lists
 1. ***Ordered lists***. Add line items with numbers followed by periods.
 * ***Unorderd lists***. Add * in front of line items.
+## Blockquotes
+> To create a blockquote, add a > in front of a paragraph.
